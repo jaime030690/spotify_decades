@@ -29,3 +29,20 @@ An integer for the tempo value is returned for the song. The integer values will
 
 ### Mode
 [Modern musical modes](https://en.wikipedia.org/wiki/Mode_(music)) are used throughout compositions, however Spotify's algorithm recognizes only two: major (Ionian) and minor (Aeolian).
+
+## Method
+
+### Data Selection
+Use Spotify's "All Out XXs" from 1950s till 2010s. Retrieve each playlist's ID.
+
+### Data Mining
+Spotify's API.
+
+### Playlist Capture
+Each Spotify playlist has an identifier. Will use API call to get the track IDs for each playlist.
+
+### Track Information
+Retrieve desired information through API calls and save to a csv file.
+
+### Data Wrangling
+Review csv file.
