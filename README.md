@@ -20,7 +20,9 @@ Instead we will use the [circle of fifths](https://en.wikipedia.org/wiki/Circle_
 ### Time Signature
 Spotify's algorithm estimates the time signature of a track by measuring the number of beats in each bar (measure). This is an integer value and ranges from 3 to 7. It assumes that the denominator of the time signature is 4, so a time signature value of 3 would indicate a 3/4 time signature.
 
-In the real world most time signatures use powers of 2 for the denominator. If the denominator is a power of 2 however we adjust the denominator by increasing the note value. For example, a time signature of 12/8 (twelve eight notes per measure) can be broken down as four 3/4 measures (three quarter notes per measure). The algorithm should provide a value of 3 in a 12/8 time signature. Additionally there are irrational time signatures but these are beyond the scope of this project. This is mosly found in the classical realm and avant-garde music.
+In the real world most time signatures use powers of 2 for the denominator. If the denominator is a power of 2 however we adjust the denominator by increasing the note value. For example, a time signature of 12/8 (twelve eight notes per measure) can be broken down as four 3/4 measures (three quarter notes per measure). The algorithm should provide a value of 3 in a 12/8 time signature.
+
+Additionally there are irrational time signatures but these are beyond the scope of this project. This is mosly found in the classical realm and avant-garde music.
 
 ### Tempo
 An integer for the tempo value is returned for the song. The integer values will be binned with a corresponding tempo marking (Adagio, Allego for example) using the basic tempo markings from [Wikipedia](https://en.wikipedia.org/wiki/Tempo#Basic_tempo_markings).
