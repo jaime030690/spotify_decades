@@ -1,3 +1,5 @@
+# Dict with key signatures. Values correspond to Spotify's API response for key signature.
+# Keys are made up of a list where index 0 corresponds to the most common term for the key signature in the minor mode; index 1 corresponds to the major.
 key_signatures = {
     0: ['C', 'C'],
     1: ['C#', 'C#/Db'],
@@ -13,6 +15,7 @@ key_signatures = {
     11: ['B', 'B']
 }
 
+# Dict with modes. Values correspond to Spotify's API response for mode.
 modes = {
     0: 'minor',
     1: 'major'

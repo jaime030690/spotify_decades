@@ -25,7 +25,7 @@ In the real world most time signatures use powers of 2 for the denominator. If t
 Additionally there are irrational time signatures but these are beyond the scope of this project. This is mosly found in the classical realm and avant-garde music.
 
 ### Tempo
-An integer for the tempo value is returned for the song. The integer values will be binned with a corresponding tempo marking (Adagio, Allego for example) using the basic tempo markings from [Wikipedia](https://en.wikipedia.org/wiki/Tempo#Basic_tempo_markings).
+An integer for the tempo value is returned for the song which corresponds to the beats per minute (BPM) of the song.
 
 ### Mode
 [Modern musical modes](https://en.wikipedia.org/wiki/Mode_(music)) are used throughout compositions, however Spotify's algorithm recognizes only two: major (Ionian) and minor (Aeolian).
