@@ -20,3 +20,39 @@ modes = {
     0: 'minor',
     1: 'major'
 }
+
+# List with reordered integer values each key signatured/mode matchup. Integer values from -5 (5 flats) to +6 (6 sharps).
+key_int = [
+
+    #Minor modes
+    {   
+        10: -5,
+        5: -4,
+        0: -3, 
+        7: -2,
+        2: -1,
+        9: 0,
+        4: 1,
+        11: 2,
+        6: 3,
+        1: 4,
+        8: 5,
+        3: 6    },
+
+    # Major Mode
+    {   
+        1: -5,
+        8: -4, 
+        3: -3, 
+        10: -2,
+        5: -1, 
+        0: 0,
+        7: 1,
+        2: 2,
+        9: 3,
+        4: 4,
+        11: 5,
+        6: 6
+                }
+
+]
