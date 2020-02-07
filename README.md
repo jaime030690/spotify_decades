@@ -1,5 +1,7 @@
 # Spotify Decades
 
+![Spotify Logo](Images/spotify_logo.png)
+
 ## Overview
 
 By the end of 2019 Spotify had the [largest percentage of unique users](https://www.midiaresearch.com/blog/music-subscriber-market-shares-h1-2019/) of all streaming services. Using the [Spotify API](https://developer.spotify.com/documentation/web-api/) it is possible to retrieve metadata on individual tracks which is generated algorithmically. For the scope of this project we are interested in key and time signature, tempo, and mode (major/minor).
@@ -11,6 +13,7 @@ The goal of this project is to find trends in Spotify-curated playlists "All Out
 * Mode
 
 ## Considerations
+
 ### Key Signature
 Spotify uses integer values to assign key signatures to each track (0 = C, 1 = C#/Db, ... , 11 = B). The algorithm listens for trends in notes and chords throughout the song to assign a value. There is also a confidence interval which ranges from 0 thru 1 to determine the accuracy of the algorithm's decision.
 
