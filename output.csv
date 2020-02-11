@@ -1,313 +1,78 @@
-track,artist,uri,mode,key_signature,key_integer,time_signature,bpm
-Don't Stop Believin',Journey,spotify:track:77NNZQSqzLNqh2A9JhLRkg,1,4,4,4,119.25
-Any Way You Want It,Journey,spotify:track:2DyHhPyCZgZzNXn1IrtsTu,1,7,1,4,138.162
-Separate Ways (Worlds Apart),Journey,spotify:track:2ORySgkn0CbUMFbEoP1wwE,0,4,1,4,131.446
-Only the Young,Journey,spotify:track:5DkORVajfAFyI6PJnFFfng,1,7,1,4,72.479
-Ask the Lonely,Journey,spotify:track:1YVyN4CV9VZGxZNL2PDvpw,1,0,0,4,128.396
-"Lovin', Touchin', Squeezin'",Journey,spotify:track:2dmb9WeiAkY1A8rCkcgwky,1,2,2,3,211.397
-Open Arms,Journey,spotify:track:66Ep8YTV03a4uizMXAnho3,1,2,2,3,101.545
-Hold the Line,TOTO,spotify:track:4aVuWgvD0X63hcOCnZtNFA,0,6,3,4,95.842
-Rosanna,TOTO,spotify:track:37BTh5g05cxBIRYMbw8g2T,0,7,-2,4,78.442
-I Want to Know What Love Is - 2008 Remaster,Foreigner,spotify:track:5DeXQ3qADuDmqsosnZAK3o,1,6,6,4,81.527
-Cold as Ice - 2008 Remaster,Foreigner,spotify:track:3iM9wFGlyR28IBZrXYZK9j,0,3,6,4,131.157
-Waiting for a Girl like You - 2008 Remaster,Foreigner,spotify:track:1UrZVcINJBqjKw2rF8V0nm,0,10,-5,4,202.689
-Juke Box Hero - 2008 Remaster,Foreigner,spotify:track:5zS9mvTXCSPToAYlSHiG4i,1,9,3,4,176.997
-Hit Me With Your Best Shot - 1999 Digital Remaster,Pat Benatar,spotify:track:7nrtHjt4Vk4Z5jMHOwaS8F,1,4,4,4,127.446
-Danger Zone,Kenny Loggins,spotify:track:1GYYqJlTVKrz6NUMbokAYm,0,3,6,4,157.087
-I'm Free (Heaven Helps the Man ),Kenny Loggins,spotify:track:2B8UVVY69xM1HrqVspYdJF,1,8,-4,4,160.253
-"Playing with the Boys - From ""Top Gun"" Original Soundtrack",Kenny Loggins,spotify:track:5mQYBoGU3BOAqiFq54b51i,1,2,2,4,141.674
-Jessie's Girl,Rick Springfield,spotify:track:0TF3F5Lw5apoD1zvR8LikO,1,2,2,4,131.705
-Love Somebody,Rick Springfield,spotify:track:4wX7kEkj1UgFDMFbZIR3kZ,1,4,4,4,138.94
-Working for the Weekend,Loverboy,spotify:track:0sgDEFq9oeC8ueOK0mR5IA,1,7,1,4,147.28
-Heaven in Your Eyes,Loverboy,spotify:track:11DFnOWr3ZCeCPTMXLSWeg,1,6,6,4,122.84
-Lovin' Every Minute Of It,Loverboy,spotify:track:0WoX5UZBjz28ES3LxbRJ6B,0,9,0,4,172.482
-Hold On Loosely,38 Special,spotify:track:6hQszXJIYhtjmSTmDqZpeU,1,9,3,4,127.238
-Caught Up In You,38 Special,spotify:track:3jYRpwbctfqB77uU7T7K3U,0,1,4,4,131.011
-Rockin' Into The Night,38 Special,spotify:track:5s9a6CUATfBVq57wn0fy8m,1,0,0,4,127.998
-Come Sail Away,Styx,spotify:track:11G0yprQtMU53BLPMSr093,1,0,0,4,147.696
-Heat Of The Moment,Asia,spotify:track:1bgW6IeRlRQ4ijwbaWnUFL,1,1,-5,4,135.532
-Who Will Stop the Rain?,Asia,spotify:track:1Vq3GkXEwkHknkBm0wjQn5,1,5,-1,4,122.189
-More Than a Feeling,Boston,spotify:track:32kgOw8wejH7zUhtXCM8DH,1,7,1,4,108.736
-Tom Sawyer,Rush,spotify:track:3QZ7uX97s82HFYSmQUAN1D,1,9,3,4,87.559
-Keep on Loving You,REO Speedwagon,spotify:track:3PzK9Rm8DANCry1ivpAuy7,1,0,0,4,174.585
-Take It On the Run,REO Speedwagon,spotify:track:5NJcg1bvft5yNwy140v7Dn,1,7,1,4,155.539
-Take Me Home Tonight,Eddie Money,spotify:track:63diy8Bzm0pHMAU37By2Nh,1,1,-5,4,132.752
-Two Tickets to Paradise,Eddie Money,spotify:track:22CIOfLZB9z8He7WgHYAgH,1,2,2,4,129.713
-The Stroke,Billy Squier,spotify:track:2H5BRl8I6IveJ6BgC7FpqQ,0,7,-2,4,91.33
-Everybody Wants You - Remastered 2002,Billy Squier,spotify:track:6A6DP1AXsx4z0ILd2mKtPF,1,7,1,4,131.815
-My Kinda Lover - 2002 Digital Remaster / 24-Bit Mastering,Billy Squier,spotify:track:1j8p4ad0UJfOxSmqhxL2aq,0,9,0,4,95.109
-In The Dark - Remastered,Billy Squier,spotify:track:2dgjjOdz8qnGXLos9xbNNV,0,4,1,4,112.469
-Stranglehold,Ted Nugent,spotify:track:1yl4Lly0mQBJwDeocjsbxc,1,2,2,4,148.189
-Lunatic Fringe,Red Rider,spotify:track:4rAnSE0E0f33unxXsQa5Fr,1,4,4,4,97.53
-The Touch,Stan Bush,spotify:track:6xomsXeu2L9h0q4fMOaVhK,1,2,2,4,127.018
-Turn Up The Radio,Autograph,spotify:track:1u6f9cmxPOq28FH7j1ydQZ,1,11,5,4,112.123
-Send Her To Me,Autograph,spotify:track:4ysICzndOvhSpdVV4RocT2,0,6,3,4,130.528
-Round and Round,Ratt,spotify:track:0SFS1LxNP5wgnoDA7nGKQu,1,11,5,4,126.535
-Love Song,Tesla,spotify:track:7Kh8RgD3lF7566uqr9gDWX,1,7,1,4,162.551
-Cherry Pie,Warrant,spotify:track:7LygtNjQ65PSdzVjUnHXQb,1,2,2,4,177.489
-18 And Life,Skid Row,spotify:track:13aKGvTil3UUw1yk0pA9fG,0,1,4,4,90.4
-I Remember You,Skid Row,spotify:track:2kyDqWZoa2VVyrgtlx3yQT,1,0,0,4,88.218
-Youth Gone Wild,Skid Row,spotify:track:2RS2LjutjFRArPZElAiLWn,0,7,-2,4,117.349
-Here I Go Again - 20th Anniversary Remaster,Whitesnake,spotify:track:7r6KRHz2HAjoaBQCtQJfzR,1,7,1,4,90.721
-Panama,Van Halen,spotify:track:11dCfArPrM7kzYpUrFHal9,1,8,-4,4,141.258
-Hot For Teacher,Van Halen,spotify:track:54s7NH3Lnu8nlrX08VPwFI,1,2,2,4,127.473
-Jump - 2004 Remaster,Van Halen,spotify:track:19kuZ0IExry8qYJ4lU2A0r,1,0,0,4,129.894
-Dreams,Van Halen,spotify:track:32RMpGN1BYPB80rJEbzCHq,1,0,0,4,141.105
-Rock And Roll All Nite,KISS,spotify:track:4DmkQZINxKk2QO5oBxbfIX,1,1,-5,4,144.684
-Detroit Rock City,KISS,spotify:track:3uz0O62HqYoyRiWZjS61KK,0,0,-3,4,90.654
-"I Don't Want to Miss a Thing - From ""Armageddon"" Soundtrack",Aerosmith,spotify:track:225xvV8r1yKMHErSWivnow,1,2,2,4,121.154
-Sweet Emotion,Aerosmith,spotify:track:24NwBd5vZ2CK8VOQVnqdxr,1,9,3,4,99.437
-Walk This Way,Aerosmith,spotify:track:2vX5WL7s6UdeQyweZEx7PP,1,5,-1,4,108.531
-Janie's Got A Gun - Single Version,Aerosmith,spotify:track:1ZZZO1HhRYkCeY545WzBUw,1,5,-1,4,115.491
-Dude (Looks Like A Lady),Aerosmith,spotify:track:16YKTrvkjSINdXEcAXaI4n,0,4,1,4,126.307
-Livin' On A Prayer,Bon Jovi,spotify:track:7qQnBfwXrw2tZNFG4Uf57N,1,0,0,4,122.528
-You Give Love A Bad Name,Bon Jovi,spotify:track:1MTMedlCphum6mRcd8YzvE,0,0,-3,4,122.812
-Rock You Like A Hurricane - Live,Scorpions,spotify:track:4csq7Ptr7f863G6AjftoLL,0,4,1,4,125.655
-No One Like You,Scorpions,spotify:track:0Uqlqjd38fF5Yb2NeLO2HR,0,9,0,4,118.185
-The Final Countdown,Europe,spotify:track:4syv1QpthkeCBcLSw0Ldpf,0,6,3,4,117.561
-Summer Of '69,Bryan Adams,spotify:track:6cnd6UwOyvEPWUjuuDKMIP,1,2,2,4,138.934
-Run To You,Bryan Adams,spotify:track:5BugaNbZM9Lc7qUtd5FDir,1,4,4,4,126.504
-Every Breath You Take,The Police,spotify:track:4U3Ggqyv2XgnS1u82HOGQX,1,1,-5,4,117.397
-Hungry Like the Wolf,Duran Duran,spotify:track:2HuHopKnnuGQEpGb0CssCs,1,0,0,4,129.442
-The Reflex,Duran Duran,spotify:track:4DDgVahgRnITUk6Wnu5FWR,1,0,0,4,126.686
-Shout,Tears For Fears,spotify:track:0wWNbkx0BR4CBJrTjG0sJ4,1,0,0,4,97.948
-Rebel Yell - Remastered,Billy Idol,spotify:track:2ZTIw0fZhFp3nnvF41nvVc,0,9,0,4,166.791
-Kickstart My Heart,Mötley Crüe,spotify:track:4lt3cXW4RkvkHRG4x3K3P4,0,7,-2,4,179.023
-Dr. Feelgood,Mötley Crüe,spotify:track:3srPnN4EqPhdvMROVESuIA,1,2,2,4,110.995
-"Girls, Girls, Girls",Mötley Crüe,spotify:track:3CA2omtaRCN3CZwwUaW6Nh,1,7,1,4,140.103
-Home Sweet Home,Mötley Crüe,spotify:track:39WdbGVs8RWHP71p6vLyiD,1,5,-1,4,75.545
-Shout at the Devil,Mötley Crüe,spotify:track:357MWTQTgEtO9cxmwDexZS,1,0,0,4,94.979
-Cum on Feel the Noize,Quiet Riot,spotify:track:6FBmHx1FuaSnTnnnaThgbF,0,11,2,4,145.439
-You've Got Another Thing Comin',Judas Priest,spotify:track:7h9fTEEMKLoZZVAoJFdlKz,0,11,2,4,138.418
-Pour Some Sugar On Me - Live,Def Leppard,spotify:track:3YdhuJjqZaJKC4xWKUUyYl,1,8,-4,4,88.509
-Photograph - Live,Def Leppard,spotify:track:4VfWY8hydsKIXtKQ2AT9oO,1,1,-5,4,121.766
-Love Bites - Live,Def Leppard,spotify:track:6iCCvEH7xhkcsFTXnLVLIK,1,8,-4,4,131.491
-Rocket - Live,Def Leppard,spotify:track:1xUM9SkxhwpCdovYSEe4Ur,1,8,-4,4,82.755
-"Mama, I'm Coming Home",Ozzy Osbourne,spotify:track:0H16bK2n2hwCnd7M4cx1Pj,1,8,-4,4,141.258
-Crazy Train,Ozzy Osbourne,spotify:track:2b9lp5A6CqSzwOrBfAFhof,1,9,3,4,137.575
-Mr. Crowley - 2002 Version,Ozzy Osbourne,spotify:track:5pnLt6PMHoPpbB7Wz3xRfO,0,2,-1,4,108.129
-Shot in the Dark,Ozzy Osbourne,spotify:track:31dqpLUModJWNbxrXu6TWd,1,6,6,3,123.887
-Bark at the Moon,Ozzy Osbourne,spotify:track:1osDYn0w2nXyYGBoH6C8Y8,1,2,2,4,146.503
-No More Tears,Ozzy Osbourne,spotify:track:3tWHAGdj4xV92j8SmfZtZ9,1,6,6,4,104.667
-Welcome To The Jungle,Guns N' Roses,spotify:track:0eFvoRSTTaR2q8bSWVjwfp,0,10,-5,4,123.411
-The Heat Is On (as made famous by Glenn Frey),The Rock Heroes,spotify:track:0mdMh1EFp4OWWmeD2U4WHm,1,7,1,4,149.832
-Fantasy,Aldo Nova,spotify:track:1zrba5qe6xkC84AlbXNa6u,1,0,0,4,131.268
-Jack & Diane,John Mellencamp,spotify:track:3vmOEg3JBiNxaz0mHxPSPC,1,9,3,4,103.968
-Hurts So Good,John Mellencamp,spotify:track:3D9aRFIrFGDnBJAmP6ODYW,1,9,3,4,125.456
-Small Town,John Mellencamp,spotify:track:4oE8zFdponjE1mtTi4geXA,1,11,5,4,123.155
-Cherry Bomb,John Mellencamp,spotify:track:1NkoPsSffzDOir92bPzmML,1,7,1,4,113.837
-"Mighty Wings - From ""Top Gun"" Original Soundtrack",Cheap Trick,spotify:track:32SckiFOYb8bwYewY51WA7,1,5,-1,4,158.071
-Born in the U.S.A.,Bruce Springsteen,spotify:track:57Uplvs802NVw2msQIMS4P,1,4,4,4,121.742
-Glory Days,Bruce Springsteen,spotify:track:23DjJ1MQIoVTF5JYJiCq3R,1,9,3,4,117.153
-Dancing In the Dark,Bruce Springsteen,spotify:track:6T72897iJFx4H2O8Ggz0Wn,1,11,5,4,148.176
-Like a Prayer,Madonna,spotify:track:1z3ugFmUKoCzGsI6jdY4Ci,1,5,-1,4,111.037
-Eye Of The Tiger,Survivor,spotify:track:47rj7tkprjhJO1sOlWarm3,0,0,-3,4,108.698
-"Burning Heart - From ""Rocky IV"" Soundtrack",Survivor,spotify:track:2avaSeKHI5l4sLruVfLdi2,0,9,0,4,97.996
-Drive,The Cars,spotify:track:3wfujdbamR3Z46F4xav7LM,1,6,6,5,111.441
-Every Breath You Take,The Police,spotify:track:4U3Ggqyv2XgnS1u82HOGQX,1,1,-5,4,117.397
-Your Love,The Outfield,spotify:track:5dRQUolXAVX3BbCiIxmSsf,0,1,4,4,129.607
-All the Love,The Outfield,spotify:track:3sR4DlHGETLGfncj2PFqnI,1,4,4,4,128.208
-Say It Isn't So,The Outfield,spotify:track:5kFKBbsxrxFpf47nj79wMI,1,4,4,4,124.051
-Kyrie - Single Version,Mr. Mister,spotify:track:5BXj1QDRU77J1ngVavG1tI,1,0,0,4,89.735
-Broken Wings,Mr. Mister,spotify:track:5l3zkjO2Ag05TTqpbGQ9qP,0,1,4,4,99.126
-The Boys Of Summer,Don Henley,spotify:track:4TIZrHkVMOnEb0L3Vj8zUc,1,6,6,4,177.399
-Oh Sherrie,Steve Perry,spotify:track:3wqoAzrr5htxSZ7KzxhLHg,1,5,-1,4,101.807
-La Grange - 1999 Remaster,ZZ Top,spotify:track:0FMhMAFPLg8EljnROSoVnj,0,4,1,4,161.548
-Legs,ZZ Top,spotify:track:54bP8tFfGqwcZlSEgtICfd,1,4,4,4,125.232
-Tush,ZZ Top,spotify:track:5QaQnaDC7nR1mkRN9zXNnS,1,7,1,4,145.652
-Sharp Dressed Man - 2008 Remaster,ZZ Top,spotify:track:1UBQ5GK8JaQjm5VbkBZY66,1,5,-1,4,125.145
-Gimme All Your Lovin',ZZ Top,spotify:track:0OBwxFLu6Yj61s2OagYbgY,1,5,-1,4,120.059
-Nothing's Gonna Stop Us Now,Starship,spotify:track:2vEQ9zBiwbAVXzS2SOxodY,1,6,6,4,95.988
-We Built This City,Starship,spotify:track:0RpRh1l1Gk1N0EgQmLVeUr,1,5,-1,4,144.172
-Right Here Waiting,Richard Marx,spotify:track:4LFwNJWoj74Yd71fIr1W8x,1,0,0,4,177.679
-"Take My Breath Away - Love Theme from ""Top Gun""",Berlin,spotify:track:15MJ5NThPjj6xhPcts8MiY,1,6,6,4,95.769
-(I Just) Died In Your Arms,Cutting Crew,spotify:track:0YPXkQthLWrhNGoKTbwCJ8,0,11,2,4,124.919
-Sunglasses At Night,Corey Hart,spotify:track:1QbQL5m30YNvukitIqAnFG,0,10,-5,4,127.736
-All Through the Night,Cyndi Lauper,spotify:track:65R45MnObidxcXL6q3fHZW,1,8,-4,4,95.1
-Who Can It Be Now?,Men At Work,spotify:track:29r3fDexnrto7WABfpblNH,1,4,4,4,128.501
-In The Air Tonight,Phil Collins,spotify:track:7Dbg5O9nNWu6SWxDjJ9qoq,0,2,-1,4,94.987
-Think I'm In Love,Eddie Money,spotify:track:1DSljLc5XQwx7Q4Y3I96fr,1,3,-3,4,151.878
-When I'm With You,Sheriff,spotify:track:3RJof5CojqlbgZ5adHw50O,1,9,3,4,135.786
-Last Chance,Shooting Star,spotify:track:3YQ2yVDMye8MmDB2ke7v1Q,0,2,-1,4,85.324
-Feel It Again,Honeymoon Suite,spotify:track:2QdwRCh3UBd9v7eGlV1k2N,1,10,-2,4,122.141
-Sister Christian,Night Ranger,spotify:track:6LoSKNsYkRQbyuiReooMjG,1,5,-1,4,177.365
-You Ain't Seen Nothing Yet,Bachman-Turner Overdrive,spotify:track:0ydmXtSWKLqbMSx70zs9cz,1,2,2,4,118.844
-Down Under,Men At Work,spotify:track:46RVKt5Edm1zl0rXhPJZxz,0,11,2,4,107.231
-I Want You to Want Me,Cheap Trick,spotify:track:1mXXf7ztqQei9qUXliL19H,1,2,2,4,92.726
-Bang Your Head (Metal Health),Quiet Riot,spotify:track:7kFMBTOVe1fBGI5PefWyY5,0,11,2,4,121.265
-Lick It Up,KISS,spotify:track:7vov10kzdGjIq5ahZEwiPx,1,2,2,4,120.276
-"Holding Out for a Hero - From ""Footloose"" Soundtrack",Bonnie Tyler,spotify:track:3oYxYV6cFaSRwgBpjXzhvS,0,9,0,4,149.744
-Total Eclipse of the Heart,Bonnie Tyler,spotify:track:5prTs2HAw2G4idHZyeFp8o,1,8,-4,4,130.276
-It's Not Enough,Starship,spotify:track:2vR2KuHw6lINX7AX9OfXIh,0,5,-4,4,96.867
-Since You've Been Gone,The Outfield,spotify:track:3sWja868inthDh5oUg3Zkx,1,2,2,4,124.244
-One For The Mockingbird,Cutting Crew,spotify:track:4pPKjdchljyKi5635cjNuj,1,2,2,4,144.287
-Why Can't This Be Love,Van Halen,spotify:track:0TaT50ZZxT4ytZxuqkE3A9,1,0,0,4,88.236
-Dance The Night Away,Van Halen,spotify:track:0Gql9hTkMSka2wbWxworri,1,8,-4,4,129.001
-Money for Nothing,Dire Straits,spotify:track:4yqtwO7MQIIXqoiRBPHAgR,0,2,-1,4,134.212
-Wait,White Lion,spotify:track:6JfuiqeGiP8CM7WsKp9EZ4,1,2,2,4,149.413
-Hungry,White Lion,spotify:track:1dJqVLODEYIYutJ78LSJPb,0,4,1,4,142.124
-Carry on Wayward Son,Kansas,spotify:track:61DLPczTvnkCwvwNqwPKgv,1,7,1,4,126.787
-Owner Of A Lonely Heart,Yes,spotify:track:0eaZbB3SewakRxB9uHKjjj,1,7,1,4,124.993
-Black Velvet,Alannah Myles,spotify:track:1KU5EHSz04JhGg3rReGJ0N,1,8,-4,4,91.147
-Mony Mony,Billy Idol,spotify:track:3GfGTJ2xzC0rqKgdjNJLOC,1,1,-5,4,135.188
-High Enough,Damn Yankees,spotify:track:5t5rCnsgRBtcKqTB7SbD1Q,1,2,2,4,81.814
-Where You Goin' Now,Damn Yankees,spotify:track:4T4USMwkypiv1tdPVua2yF,1,7,1,4,76.54
-Simply Irresistible,Robert Palmer,spotify:track:4WHPdjmqPvlAVqZZhq5RAt,1,9,3,4,142.839
-Love Song,Tesla,spotify:track:6wvR0jv72FM0kwg1000cq9,1,2,2,4,80.883
-A Matter of Trust,Billy Joel,spotify:track:6J212smZzpeOCYQ9DITMSC,1,2,2,4,110.304
-Cut Her Off,K CAMP,spotify:track:78pMepMo6U6lBtK9v1nsb9,0,1,4,4,144.033
-I'm The Only One,Melissa Etheridge,spotify:track:4veE1jrMbVSy9FRCiYDGkD,1,0,0,4,84.938
-Change,John Waite,spotify:track:00ODCfwZix0sfqSfBYT18Z,1,11,5,4,149.028
-When I See You Smile,Bad English,spotify:track:4bWyakNL6w9rten8S8Xd09,1,7,1,4,135.829
-You're The Inspiration,Chicago,spotify:track:2Z7bUp8cJKTM9eoj7hvWXG,1,11,5,4,73.856
-I Love Rock 'n' Roll,The Black Jets,spotify:track:0p20xyAdYkaxAPWdXr0sir,0,4,1,4,94.009
-Simply Irresistible,Robert Palmer,spotify:track:0bSr5pybJSlgG5OZH441gF,1,9,3,4,142.782
-Still Of The Night,Whitesnake,spotify:track:4QaINlITxUPcQxN8Viy3HX,1,0,0,4,100.413
-Shake Me,Cinderella,spotify:track:3napoUNtpqCv9TVvJbSm0j,1,9,3,4,132.738
-"You Don't Remember, I'll Never Forget",Yngwie Malmsteen,spotify:track:0GFRpORQOrf2pamQLcZgMx,0,8,5,4,107.044
-Last Action Hero,Tesla,spotify:track:72zOHkJgyI3DVCJwCEpXTP,0,4,1,4,131.368
-Hard as a Rock,AC/DC,spotify:track:1gij27s31tFKcTHa8f1u4g,1,4,4,4,116.341
-Who Made Who,AC/DC,spotify:track:6rvldt6EoZwzogApECUCwd,1,0,0,4,125.273
-You Shook Me All Night Long,AC/DC,spotify:track:6yl8Es1tCYD9WdSkeVLFw4,1,7,1,4,127.316
-For Those About to Rock (We Salute You),AC/DC,spotify:track:1Qf7H7d1TNP8VfPVDRLY0D,1,4,4,4,132.864
-Let's Get It Up,AC/DC,spotify:track:1EJIEPzahlUiev5IQ1HnuL,1,9,3,4,108.942
-Shoot to Thrill,AC/DC,spotify:track:0C80GCp0mMuBzLf3EAXqxv,1,2,2,4,141.038
-It's a Long Way to the Top (If You Wanna Rock 'N' Roll),AC/DC,spotify:track:7nemcVsXVFZF01iqpIIo2Y,1,3,-3,4,135.966
-T.N.T.,AC/DC,spotify:track:7LRMbd3LEoV5wZJvXT1Lwb,1,9,3,4,126.367
-High Voltage,AC/DC,spotify:track:5pLgH1bCkBV3bbmvm0qvom,1,9,3,4,137.153
-Thunderstruck,AC/DC,spotify:track:52UWtKlYjZO3dHoRlWuz9S,1,4,4,4,133.479
-Rock N Roll Train,AC/DC,spotify:track:4feXJ5IC3avXsVW9WNFSag,1,2,2,4,118.4
-Heavy Metal,Sammy Hagar,spotify:track:7u82yEbEA3PfDgP7swE4Cs,1,2,2,4,92.32
-I Can't Drive 55,Sammy Hagar,spotify:track:1MqGKtY9L5qjPi8s7gX645,1,9,3,4,133.745
-There's Only One Way To Rock,Sammy Hagar,spotify:track:6DZVWULzIED39omfY6ZTFC,0,6,3,4,153.362
-Balls to the Wall,Accept,spotify:track:2dbOYFfS7r7NAzquRvji9A,1,9,3,4,118.287
-Unchained,Van Halen,spotify:track:35q1B8x7zRsITx6SxcWK67,1,1,-5,4,136.693
-Humans Being,Van Halen,spotify:track:6srExnnKuvR3MvUqDHt1Ty,1,8,-4,4,124.06
-Uncle Tom's Cabin,Warrant,spotify:track:3WW3g2scq0m7ZY5JCxrdWw,1,8,-4,4,126.567
-Is This Love,Whitesnake,spotify:track:2PoIKrT2WSEvJlJjlO6eKY,1,0,0,4,180.29
-Twilight Zone,Golden Earring,spotify:track:3ztKHejzVoxJRKSZHFFMdJ,0,11,2,4,118.56
-Living After Midnight,Judas Priest,spotify:track:0IXpUl1fn2QZcBavfuq0H4,1,4,4,4,134.992
-Right Now,Van Halen,spotify:track:6N1sNzq3CArC1pMSaZTxaT,1,5,-1,4,93.93
-Naughty Naughty,Danger Danger,spotify:track:53G4MWFNYRx2R22CHwkTrs,1,0,0,4,122.397
-Seventeen,Winger,spotify:track:2ZS0wDcdfrJPC86u5aJGo9,1,8,-4,4,95.98
-Miles Away,Winger,spotify:track:3Bzh1AtiViTIaZV6yqySZH,1,5,-1,4,182.21
-Modern Day Cowboy,Tesla,spotify:track:62BI50DjdA7kp26UVoY9wP,1,4,4,4,112.673
-Free,Stryper,spotify:track:39H85mM3qbjTw3ZMxeJIgJ,1,6,6,4,119.965
-Nobody's Fool,Cinderella,spotify:track:01Q4wU19hamqnhNjtuvTyI,0,9,0,4,67.197
-What About Love?,Heart,spotify:track:7JmsQwxDlC89imxewJcnHO,0,2,-1,4,160.551
-Lost in the Shadows (The Lost Boys),Lou Gramm,spotify:track:2IBfYLzPXSejSBYKwLW8sA,0,7,-2,4,163.764
-I Still Believe,Tim Cappello,spotify:track:0ClgwgBbok62NjS6iWxY4p,0,6,3,4,107.642
-Mother,Danzig,spotify:track:7txxAtOMwLLnQTpKeBL6bp,0,11,2,4,148.366
-Just Like Paradise,David Lee Roth,spotify:track:5ZY7Gug850kv4heJcWZGHM,1,2,2,4,135.558
-Yankee Rose,David Lee Roth,spotify:track:5Fh5nmTu6TEk0ze8QAU7og,0,2,-1,4,137.569
-Once Bitten Twice Shy,Great White,spotify:track:7pkWZL0kA26s754CwyK0SH,1,0,0,4,131.675
-WE ALL DIE YOUNG,STEELHEART,spotify:track:0QTITeLFPONXy8qzJQk4Kt,1,6,6,4,174.13
-Don't Tell Me You Love Me,Night Ranger,spotify:track:3VesHoDT219cKRQkMvwV2A,0,6,3,4,177.174
-Love of a Lifetime,Firehouse,spotify:track:2kDH08boXJyhKMl5hnZbrE,1,1,-5,4,123.023
-Fly To The Angels,Slaughter,spotify:track:6e165g8fp2WDCBwF1zxLMh,1,0,0,4,119.953
-Close My Eyes Forever,Lita Ford,spotify:track:43thLwzSasUUZEYjYPeJh3,1,5,-1,4,130.574
-Kiss Me Deadly,Lita Ford,spotify:track:0kFM6t9htbB53Dg8frGDGh,1,0,0,4,156.103
-Love In An Elevator,Aerosmith,spotify:track:1nZ2TI2hNPGDYyesyaaASn,1,4,4,4,93.724
-Rock the Night,Europe,spotify:track:3J9NEWkd9Cx1MwSSvDySkL,0,4,1,4,105.37
-Carrie,Europe,spotify:track:29wJiSQcze8HEmxkUQykyp,1,7,1,4,136.596
-Into the Fire,Dokken,spotify:track:2QarjsUyOIxGeUA3sR1xSZ,0,11,2,4,132.091
-In My Dreams (Re-Recorded / Remastered),Dokken,spotify:track:5IXUAYqwxmAFj69RWYFzbU,0,3,6,4,121.026
-Every Rose Has Its Thorn - Remastered 2003,Poison,spotify:track:2IJzqbcbQZjcca53yGkX7t,1,6,6,4,140.203
-Big City Nights,Scorpions,spotify:track:74QjBGkfTMKC7pTwkmMUdD,0,9,0,4,137.645
-Renegade,Styx,spotify:track:1FOUJzuApMpMM1wiuy3qfl,0,2,-1,4,105.793
-Rock Me - 2005 Remaster,Great White,spotify:track:5RK9Q1vogXWI60qVGDzTZA,0,6,3,4,140.858
-Contagious,Y&T,spotify:track:5TyToheOydzFmlb1GK5BAS,1,4,4,4,123.625
-L.A. Rocks,Y&T,spotify:track:54gIKMPkFn5O8svSEvMVVW,1,9,3,4,125.755
-Fight For Your Life,Y&T,spotify:track:30Pchb2sZZla5p6fktcOdv,0,11,2,4,114.835
-Cherokee,Europe,spotify:track:2Gah9qQMVdxCZJllU9HmnZ,0,4,1,4,111.115
-Ain't Talkin' 'Bout Love,Van Halen,spotify:track:4UmehW6tTXGC7HsuIGujMR,0,8,5,4,139.126
-Nothin' But A Good Time - Remastered 2006,Poison,spotify:track:2V8KvnD5LVeeDChMWEkSzC,1,1,-5,4,129.088
-Talk Dirty To Me,Poison,spotify:track:46U6D2suJbJXDfkibTqjTy,1,11,5,4,158.023
-Africa,TOTO,spotify:track:2374M0fQpWi3dLnB54qaLX,1,9,3,4,92.717
-Gypsy Road,Cinderella,spotify:track:3W1iDAW7PVwlMC2zJIKF0k,1,9,3,4,132.426
-Stayed Awake All Night,Krokus,spotify:track:1h9pSTZy3915c9yXde1unb,1,9,3,4,166.786
-Midnite Maniac,Krokus,spotify:track:7BsLpcQJSprcNf61lyBZrT,1,9,3,4,143.593
-Heaven's On Fire,KISS,spotify:track:1brpdmqkx3kSxyqzqXfW7J,1,0,0,4,124.325
-Rocky Mountain Way,Joe Walsh,spotify:track:3UXsuXc03nQYrGnQ4VP6L6,1,4,4,4,86.998
-Hot Girls In Love,Loverboy,spotify:track:1pB5Y2BPLez1J49KKKewUE,1,9,3,4,153.743
-Unskinny Bop,Poison,spotify:track:1Z6lKdYhwp8WYoBqGCKxlM,1,1,-5,4,92.303
-Rainbow in the Dark,Dio,spotify:track:2PpNgmrS9mAyrkRAwn6YPq,0,9,0,4,117.461
-For Whom The Bell Tolls (Remastered),Metallica,spotify:track:51YZAJhOwIC5Gg3jMbAmhZ,1,0,0,4,117.909
-What Do You Do for Money Honey,AC/DC,spotify:track:6Th6ND8RQPywiyelecP5Lf,1,9,3,4,125.698
-All In The Name Of...,Mötley Crüe,spotify:track:2ONmdpt36V0U35Qx5DO0y9,1,0,0,4,163.614
-Wild Side,Mötley Crüe,spotify:track:41wWrTueWew7qUU0Ru87Mp,1,0,0,4,115.092
-Rodeo,Mötley Crüe,spotify:track:3HfkHmM7fvG6do2JcPwoso,1,10,-2,4,121.51
-Everybody Wants Some!!,Van Halen,spotify:track:06cv61HwUdLzSi35A8jUEx,1,8,-4,4,144.163
-Bump the La La,Kix,spotify:track:3hzTGUDMWcHaew1qwb1dxs,1,6,6,4,131.12
-Nobody Rides for Free - 2007 Remaster,Ratt,spotify:track:45ro8raQqTf9gbo2UEEUNA,0,6,3,4,124.489
-Wheel in the Sky,Journey,spotify:track:6DXv7vJPrDRxo3Lnh4bacS,0,2,-1,4,105.694
-Bringin' On The Heartbreak - Live,Def Leppard,spotify:track:6DbzkaoRCo70K5sbZyIaST,0,8,5,4,146.069
-Rock Of Ages (2012),Def Leppard,spotify:track:0zOUO2Cbz0C1F8qbrebIxn,1,9,3,4,105.905
-Hysteria 2013 (Re-Recorded Version) - Single,Def Leppard,spotify:track:4xrlTtOEd3OHvQT8eu5JYY,1,7,1,4,107.088
-Learning to Fly,Pink Floyd,spotify:track:3ieDOGcOqVxScs2VZBzidt,1,0,0,4,166.585
-Land of Confusion - 2007 Remaster,Genesis,spotify:track:6twIBPybEvGydyNzNz89FT,1,1,-5,4,115.189
-Sweet Child O' Mine,Guns N' Roses,spotify:track:4MhTFsyqIJnjsOweVcU8ug,1,6,6,4,125.148
-Welcome To The Jungle,Guns N' Roses,spotify:track:5NIPsWpDjJTFBoPxCUUeXp,1,8,-4,4,123.343
-Paradise City,Guns N' Roses,spotify:track:5Q41NLTmGbVPozwHKK7bk2,1,11,5,4,100.346
-Knockin' On Heaven's Door,Guns N' Roses,spotify:track:32V8SrHZnYzZu7V47L2jgK,1,6,6,4,132.446
-No Sleep Till Brooklyn,Beastie Boys,spotify:track:5qxChyzKLEyoPJ5qGrdurN,1,8,-4,4,97.022
-When I Look Into Your Eyes,Firehouse,spotify:track:1yJWqYYDQge60nZKdLyiZU,1,6,6,4,146.759
-I Wanna Be Somebody,W.A.S.P.,spotify:track:6w8dBm5KlXxWejYrbGS1EJ,0,1,4,4,164.611
-Wild Child,W.A.S.P.,spotify:track:3iC3Numiy9P3AkF7iioKmx,0,5,-4,4,146.08
-Don't Know What You Got (Till It's Gone),Cinderella,spotify:track:3vPrFUtWpKT9oNW94NDDEW,1,9,3,4,132.639
-All We Are,Warlock,spotify:track:2dU4FegjbgW5qkdrUdzogT,1,10,-2,4,131.346
-Don't Close Your Eyes,Kix,spotify:track:7wrBlgNqYBAC5yFfO4fnYb,0,7,-2,4,148.061
-Heaven,Warrant,spotify:track:2dEgwtRjYl6TJkIwjRwn6z,1,6,6,4,145.789
-Lay It Down,Ratt,spotify:track:3D5ORNm9spaTcdRx50ksHx,1,10,-2,4,198.117
-Can't Fight This Feeling,REO Speedwagon,spotify:track:5WwqdeavrQrbeAMDxGawse,1,9,3,4,156.344
-Faithfully,Journey,spotify:track:6HzZhqXNyfJxuvQ9zfCc1U,1,11,5,4,129.677
-Bad Medicine,Bon Jovi,spotify:track:72hcFp4tYkd3dbNA9dZ3Pv,1,9,3,4,118.642
-Feel Your Love Tonight - 2015 Remaster,Van Halen,spotify:track:2fZTVlNbTrOAt05ohKJ3ym,1,8,-4,4,135.464
-Jamie's Cryin' - 2015 Remaster,Van Halen,spotify:track:6MumccCPd4N6qBVdl0gSeM,1,8,-4,4,128.001
-You Really Got Me - 2015 Remaster,Van Halen,spotify:track:0upLyFR8Rr52ZpMp5esQoq,0,1,4,4,138.18
-Jump - 2015 Remaster,Van Halen,spotify:track:7N3PAbqfTjSEU1edb2tY8j,1,0,0,4,129.994
-Here I Go Again 87 - 2017 Remastered Version,Whitesnake,spotify:track:0PP933bHgvV0eD19dG3ms5,1,7,1,4,90.172
-How Do I Get You Alone,1987 Rock Ballads,spotify:track:6KOXPPdEhmzCcCQjJyljsl,1,6,6,4,176.04
-I Still Think About You,Danger Danger,spotify:track:6lptBl2N4TFnMMcYlJ3os5,1,6,6,4,138.531
-I Can't Hold Back,Survivor,spotify:track:46NtQJH1eok28bucLlHqQT,1,4,4,4,143.645
-Who's Crying Now,Journey,spotify:track:5IK2FtuC0qmHHam9sWFxUI,0,9,0,4,122.135
-Wheel in the Sky,Journey,spotify:track:215wUTQQUo2PElJFEFoB0d,0,2,-1,4,105.191
-Lights,Journey,spotify:track:7EHmKkyAr6MZv5Y2FdZbXw,1,7,1,3,207.639
-When It's Love,Van Halen,spotify:track:5vCDbsg6i5SpOom5Iinph4,1,2,2,4,99.34
-Be Good to Yourself,Journey,spotify:track:2D5xQtVNi4o6F3Gh1qxD3Y,1,0,0,4,148.937
-Missing You,John Waite,spotify:track:1Qrdlkgg9I4J7r3P4kZNwr,0,11,2,4,208.571
-Foolish Heart,Steve Perry,spotify:track:6p3HuYPoRBzhyBPErnyNbr,1,11,5,4,96.425
-I'll Get By,Eddie Money,spotify:track:2zYWVAsSGYtXVemcXlKpqL,1,9,3,4,69.964
-Head Games - 2017 Remaster,Foreigner,spotify:track:2O2RZS8It3gxZqDY5b4CxR,1,1,-5,4,107.194
-Sleeping Bag,ZZ Top,spotify:track:1ESuT2y9AKu1zMdxq47qW5,1,7,1,4,112.122
-I'll Be Alright Without You,Journey,spotify:track:2PWldJzHn86WNueLuH7bV0,1,2,2,4,97.378
-Back Where You Belong - Edited Version,38 Special,spotify:track:0YQeuXoLAK7WM2E8sswDdS,1,7,1,4,124.82
-Runaway,Bon Jovi,spotify:track:0X1sqQ652p1sceKM2nJlIJ,0,9,0,4,152.445
-She's A Beauty - Remastered 1991,The Tubes,spotify:track:7HF88mJXq8DpotZohoW2mo,1,2,2,4,110.739
-St. Elmos Fire (Man in Motion),John Parr,spotify:track:1A2PWRltFrX8iB8IP3CUgo,1,9,3,4,111.203
-Never Surrender,Corey Hart,spotify:track:5U5p472hgeXUKvh0d8RL4K,1,2,2,4,104.131
-Alone,Heart,spotify:track:54b8qPFqYqIndfdxiLApea,1,1,-5,4,175.088
-Addicted To Love,Robert Palmer,spotify:track:477uFn72G9TmZ5ouu23rMZ,1,2,2,4,111.594
-High on You,Survivor,spotify:track:0kly0FygSDXVbvbXxsZ31S,1,7,1,4,125.152
-Poison,Alice Cooper,spotify:track:5XcZRgJv3zMhTqCyESjQrF,0,2,-1,4,118.698
-Higher Love - Single Version,Steve Winwood,spotify:track:7eLDSFTG6bJGZsYAF3LTv4,1,5,-1,4,98.601
-We Belong,Pat Benatar,spotify:track:665Jxlgi1HamPKbW1vwzx4,1,5,-1,4,135.154
-Hungry Eyes,Eric Carmen,spotify:track:31H6au3jhblhr6MMJiXnCq,1,5,-1,4,109.882
-Glory of Love,Peter Cetera,spotify:track:1eyq8cjUQ2daFthW2PC2GM,1,5,-1,4,144.998
-Eurasian Eyes,Corey Hart,spotify:track:2z8Elq4mXVvEmMtASPJ6Wx,0,11,2,4,110.048
-Love Me,Tesla,spotify:track:2qZQme4xb24O35YkM0jl11,1,9,3,4,89.87
-Two Hearts - From American Anthem,John Parr,spotify:track:31X4Fm7LU2HtiqoYFMnQdO,0,6,3,4,139.881
-Angel,Aerosmith,spotify:track:3kfXUGIdBNpyr2gBvU3Guj,1,3,-3,4,171.449
-(Can't Live Without Your) Love And Affection - Remastered 2017,Nelson,spotify:track:3JjY2L2bqql54j1SjnjQ23,1,1,-5,4,121.387
-Foolin',Def Leppard,spotify:track:5asw37ahPi46Adz5QuSCpi,0,9,0,4,113.789
-Animal - Remastered 2017,Def Leppard,spotify:track:3TgfrEgwR6yUPpjq20xozv,1,11,5,4,119.503
-Photograph,Def Leppard,spotify:track:31xggSg8hkeLhYYvvJPOjw,1,4,4,4,123.681
-Pour Some Sugar On Me - Remastered 2017,Def Leppard,spotify:track:0YJZuKyU7vWbxwkrMBQLqA,0,1,4,4,169.867
-Love Bites - Remastered 2017,Def Leppard,spotify:track:53K6uKQn2ENlsdFIsjUX4P,0,0,-3,4,129.777
-Let's Get Rocked,Def Leppard,spotify:track:1Wlwyz4zQ28uSPm2uwqi3B,0,5,-4,4,92.024
-Armageddon It - Remastered 2017,Def Leppard,spotify:track:34gDEAcnon6oeRMiEXm8jx,1,9,3,4,119.82
-Rocket - Remastered 2017,Def Leppard,spotify:track:3HtthIc2aeQzzoffjjw9S5,1,11,5,4,81.985
-Hysteria - Remastered 2017,Def Leppard,spotify:track:772K2oHttS2C7zTCfL9mHC,1,7,1,4,106.997
-Rock Of Ages,Def Leppard,spotify:track:3RnYLgMnh9WOWfB2k0UQUB,1,4,4,4,105.837
-Bringin' On The Heartbreak - Remastered 2018,Def Leppard,spotify:track:3I5BIp1ajVFFi5VpbIbcRO,0,9,0,4,78.031
-Never,Moving Pictures,spotify:track:1O5Cs8QMzeJmU2UOBA6uNR,0,9,0,4,136.797
+track,artist,year,uri,mode,key_signature,key_integer,time_signature,bpm
+Walk,Pantera,1992,spotify:track:7fcfNW0XxTWlwVlftzfDOR,0,1,4,4,118.242
+Master Of Puppets,Metallica,1986,spotify:track:2MuWTIM3b0YEAskbeeFE1i,0,4,1,4,105.173
+Raining Blood,Slayer,1986,spotify:track:4fiOTntQKr24p07FvQDHZE,0,10,-5,4,87.499
+Duality,Slipknot,2004,spotify:track:61mWefnWQOLf90gepjOCb3,0,4,1,4,143.772
+The Trooper - 2015 Remaster,Iron Maiden,1983,spotify:track:4OROzZUy6gOWN4UGQVaZMF,0,4,1,4,159.756
+Chop Suey!,System Of A Down,2001,spotify:track:5V3mdRI2yQxbSsJGDPc5lD,0,7,-2,4,127.204
+Symphony Of Destruction,Megadeth,1992,spotify:track:51TG9W3y9qyO8BY5RXKgnZ,0,4,1,4,139.903
+Du hast,Rammstein,1997,spotify:track:3cwDSDzTiWr5H5xMQhQ6Mx,0,9,0,4,125.105
+Stinkfist,TOOL,1996,spotify:track:0pwObEOHolQZSldJ2q1wpy,1,0,0,4,171.454
+Under and Over It,Five Finger Death Punch,2011,spotify:track:3CBoWhq9cd7WGQZ9EDQVnn,0,11,2,4,75.978
+Laid to Rest,Lamb of God,2004,spotify:track:0lCwaZYSRy6q0jLmnYiQxi,1,1,-5,3,103.038
+Ace of Spades,Motörhead,1980,spotify:track:6EPRKhUOdiFSQwGBRBbvsZ,1,6,6,4,140.079
+Hail to the King,Avenged Sevenfold,2013,spotify:track:5anCkDvJ17aznvK5TED5uo,0,3,6,4,118.004
+Paranoid,Black Sabbath,1970,spotify:track:1jzDzZWeSDBg5fhNc3tczV,0,4,1,4,162.734
+Freak On a Leash,Korn,1998,spotify:track:6W21LNLz9Sw7sUSNWMSHRu,1,2,2,4,103.293
+The Beautiful People,Marilyn Manson,1996,spotify:track:2aIB1CdRRG7YLBu9hNw9nR,0,10,-5,4,143.973
+A Warrior's Call,Volbeat,2010,spotify:track:5mNbJIYaKkphf5WqwhXhva,1,10,-2,3,109.118
+You Can't Bring Me Down,Suicidal Tendencies,1990,spotify:track:203xxdlledLFnkqrUleD72,0,4,1,4,136.851
+Enter Sandman,Metallica,1991,spotify:track:5sICkBXVmaCQk5aISGR3x1,0,6,3,4,123.257
+Blood and Thunder,Mastodon,2004,spotify:track:3jagGO7eHHuaD53ibehkux,1,2,2,4,92.717
+Madhouse,Anthrax,1985,spotify:track:76BYv24CcZt2u94JRjmATX,1,9,3,4,163.578
+Roots Bloody Roots,Sepultura,1996,spotify:track:6ursmCnbc9oDRGa2yHKkoZ,0,4,1,4,119.708
+Shadow Moses,Bring Me The Horizon,2013,spotify:track:68osIGtVjM7QWVe6pazLHj,1,6,6,4,143.006
+Dragula,Rob Zombie,1998,spotify:track:6Nm8h73ycDG2saCnZV8poF,0,0,-3,4,125.03
+Sugar,System Of A Down,1998,spotify:track:31RTFPrB7wmYBhlkM2ILXG,1,1,-5,4,131.073
+Dig,Mudvayne,2000,spotify:track:3H0ZY55seypgo0zXI6zwRk,0,11,2,4,134.975
+Your Betrayal,Bullet For My Valentine,2010,spotify:track:25GC50HslaaruyrKjdu0lP,0,2,-1,4,134.003
+Die MF Die,Dope,2001,spotify:track:5bU4KX47KqtDKKaLM4QCzh,0,5,-4,4,126.02
+Painkiller,Judas Priest,1990,spotify:track:0L7zm6afBEtrNKo6C6Gj08,0,1,4,4,103.16
+Biggest & The Best - Remastered version,Clawfinger,1997,spotify:track:4KdCtL3tO5osDoxtZR1aqg,1,1,-5,4,170.471
+The Toxic Waltz,Exodus,1989,spotify:track:5ZOOjqoCaUydmo8bxSdosj,0,11,2,4,91.319
+Davidian,Machine Head,1994,spotify:track:3qHlBxD3acw5nrl7Padt0v,1,7,1,3,154.244
+Linchpin,Fear Factory,2001,spotify:track:4qjvr0qMFUo26SxwC4VygS,1,0,0,4,111.989
+Stone the Crow,DOWN,1995,spotify:track:7DuRbuweGD2cpGN74cpPAF,0,11,2,4,106.437
+Cowboys from Hell,Pantera,1990,spotify:track:2SgbR6ttzoNlCRGQOKjrop,1,2,2,4,114.816
+Carrion,Parkway Drive,2009,spotify:track:0xfWKcNu13xxXQ2GT0P09M,0,6,3,4,155.212
+Would?,Alice In Chains,1992,spotify:track:5sFDReWLrZHLFZFjHsjUTS,1,6,6,4,100.677
+Flying whales,Gojira,2005,spotify:track:5OjCsHeByDYEGxMrb1z8KQ,0,7,-2,4,95.431
+Wait and Bleed,Slipknot,2009,spotify:track:2gscB6kDOmrv1P6qs2KXE3,1,7,1,4,93.345
+My Own Summer (Shove It),Deftones,1997,spotify:track:1158ckiB5S4cpsdYHDB9IF,1,1,-5,4,71.841
+Loco,Coal Chamber,1997,spotify:track:34SVUs66rBnOqsCJl45Ek8,1,6,6,4,133.738
+"Snap Your Fingers, Snap Your Neck",Prong,1994,spotify:track:7hgtn706RqLE5q1mWe8aQx,1,5,-1,4,137.38
+Dying in Your Arms,Trivium,2005,spotify:track:0dzMcLqdF9NnNT3CgXJ5XG,0,9,0,4,159.953
+South Of Heaven,Slayer,1988,spotify:track:3U9gogDStAfWxSm91PJuxb,0,5,-4,4,140.068
+River Runs Red,Life Of Agony,1993,spotify:track:3KrjJgriB8BcBWOwNNB69F,1,2,2,4,163.58
+Electric Crown,Testament,1992,spotify:track:5gnjaZqOaqE5GZKjby8KoT,1,1,-5,4,81.292
+Down with the Sickness,Disturbed,2010,spotify:track:4ImIJRZNJhNQLLdUFSYJoS,0,10,-5,4,90.009
+Only for the Weak,In Flames,2000,spotify:track:03zYFtluA21jFWQVPMbUYO,0,0,-3,4,105.007
+Break Stuff,Limp Bizkit,1999,spotify:track:4WJNMSihHL8e4hs9SkBq9C,1,8,-4,4,108.948
+Stand My Ground,Within Temptation,2004,spotify:track:15z9QEJOBV6hDdWsdZwDKP,0,5,-4,4,87.714
+Balls to the Wall,Accept,1983,spotify:track:28sMmBCmfHoy6NjZnovEYG,1,9,3,4,118.287
+Twilight Of The Thunder God,Amon Amarth,2008,spotify:track:5u3l2TONYacJgmRPQVaF9y,1,6,6,4,191.014
+I Wanna Be Somebody,W.A.S.P.,1984,spotify:track:395uj20WFZvffLXIGFD0u6,0,1,4,4,164.26
+Looking Down the Barrel of Today,Hatebreed,2016,spotify:track:5hQfs9spSyXUavvPe7jmgn,1,1,-5,4,180.065
+Push It,Static-X,1999,spotify:track:6O7pihLJgeqxUnG7u9oYL2,1,0,0,4,149.887
+My Curse,Killswitch Engage,2006,spotify:track:6zKF4293k44ItKWJJgrhXv,0,10,-5,3,177.018
+Just One Fix,Ministry,1992,spotify:track:0Vcpo9El50PNNbZXfKbNti,1,0,0,4,132.984
+Enchantment - 2011 Remasterred,Paradise Lost,1995,spotify:track:4tTLo644XcmhYRzpDZdnlb,1,0,0,4,116.783
+Abigail - Reissue,King Diamond,1987,spotify:track:27jgTMFbx4HZhwVVpK0tOC,1,9,3,4,146.584
+Ritual,Ghost,2010,spotify:track:4hxd9xX8SNH0R2XSrXRATW,0,0,-3,4,132.01
+I Wanna Rock,Twisted Sister,1984,spotify:track:70Z9t1qhytWtG4cCmmi7mU,1,2,2,4,106.244
+Kings of Metal,Manowar,1988,spotify:track:28TcG73tbc4iGrGBFjiBnR,1,9,3,4,132.127
+Black No. 1 (Little Miss Scare -All),Type O Negative,1993,spotify:track:710B9xFjNOisQtKtppZE9p,1,4,4,4,93.614
+Heaven's a Lie,Lacuna Coil,2002,spotify:track:0I7y3aEavUHgkt4aCreBDa,0,4,1,4,140.004
+Nemo,Nightwish,2004,spotify:track:2edSHS8PhbiPgLxQhMpMkO,1,3,-3,4,125.058
+Bleed,Meshuggah,2008,spotify:track:4E6wpXABj8XosZEPXZz2OK,0,3,6,4,114.831
+Thunder Kiss '65,White Zombie,1992,spotify:track:0jI2IdL3Bco0a3IPc7pHbY,1,9,3,4,112.663
+War Eternal,Arch Enemy,2014,spotify:track:0WZZENH0kt3O2cBE8q5IRq,0,5,-4,4,155.045
+The Ultra-Violence,Death Angel,1987,spotify:track:20bJTQOaoHqeCHBhqIgcTl,0,4,1,4,109.438
+Halo,Soil,2001,spotify:track:0rlPOzWbNVui2ABuI5OFhL,1,3,-3,4,111.143
+Panic Attack,Dream Theater,2005,spotify:track:5axwj3ekvw85989jjO8Ov8,1,1,-5,4,125.96
+Love?,Strapping Young Lad,2005,spotify:track:4MVJvkKhoeLPH3BcssmVpC,0,6,3,3,142.536
+The Sound Of Truth,As I Lay Dying,2007,spotify:track:7lYrz70DntWR7o8Sqfz0Ok,0,2,-1,4,165.018
+1000hp,Godsmack,2014,spotify:track:3NW1h8l6EY5N6HNBL83S4V,0,6,3,4,92.091
+The American Way,Sacred Reich,1990,spotify:track:2SA2tTWoELC0ciMuYRfbpT,1,0,0,4,148.524
+Elimination,Overkill,1989,spotify:track:6lWFQo5NuR3y8Q6CHIRatA,0,6,3,4,112.766
+Are You Dead Yet,Children Of Bodom,2005,spotify:track:2T2vudIHfVMA5ychWTU3KA,1,8,-4,4,96.003
