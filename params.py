@@ -57,3 +57,18 @@ key_int = [
 
 ]
 
+# List with ordered key signatures from five flats to six sharps.
+key_list = [
+    '5 flat',
+    '4 flat',
+    '3 flat',
+    '2 flat',
+    '1 flat',
+    '0 flat/sharp',
+    '1 sharp',
+    '2 sharp',
+    '3 sharp',
+    '4 sharp',
+    '5 sharp',
+    '6 sharp'
+]
